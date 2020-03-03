@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="Arrays" type="Python" />
+      <mapping pattern="LinkedList" type="Python" />
+      <mapping pattern="helloworld" type="Python" />
+      <mapping pattern="countingBits" type="Python" />
+      <mapping pattern="stack" type="Python" />
+      <mapping pattern="Subset" type="Python" />
+    </extensionMap>
+  </component>
+</application>
